@@ -2,6 +2,17 @@
 
 A new Flutter project.
 
+# Show some ❤️ and star the repo to support the project
+
+  - fork this repo and see the code
+### Development
+
+Want to contribute? Great!
+
+Designed And Developed By 
+----
+Raushan Jha
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
